@@ -1,0 +1,21 @@
+# Ignore environment files
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Virtualenv
+venv/
+*.egg-info/
+
+# Logs
+*.log
