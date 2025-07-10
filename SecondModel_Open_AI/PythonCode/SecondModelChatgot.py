@@ -12,13 +12,16 @@ from typing import Dict, Optional
 
 from openai import OpenAI
 
+script_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(script_path)
+project_root = os.path.dirname(os.path.dirname(script_dir))
 
 # Konfiguration
 @dataclass
 class Config:
     """Konfigurationsklasse für den Anonymisierer"""
-    input_folder: Path
-    output_folder: Path
+    input_folder: str
+    output_folder: str
     api_key: str
     model: str = "gpt-4o"
     temperature: float = 0
@@ -273,10 +276,8 @@ def main():
         return
 
     config = Config(
-        input_folder=Path(
-            r"C:\Users\Leander\Videos\Final Project File Data Analytics in Applications\TestingData\AllOriginalEmails"),
-        output_folder=Path(
-            r"C:\Users\Leander\Videos\Final Project File Data Analytics in Applications\SecondModel_Open_AI\Anonymized_Output"),
+        input_folder=os.path.join(project_root, "TestingData", "AllOriginalEmails"),
+        output_folder=os.path.join(project_root, "SecondModel_Open_AI", "Anonymized_Output"),
         api_key=api_key,
         model="gpt-4o",
         temperature=0,

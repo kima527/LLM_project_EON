@@ -7,6 +7,11 @@ from pathlib import Path
 from openai import OpenAI
 #funktioneirt gut
 # OpenAI API Setup
+script_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(script_path)
+project_root = os.path.dirname(os.path.dirname(script_dir))
+
+
 load_dotenv()
 client = OpenAI(
     api_key=os.getenv("OPENAI_API_KEY")
@@ -337,8 +342,8 @@ Analysiere sehr genau und gib die Metriken im angegebenen Format aus."""
 
 def main():
     # Pfade zu den Ordnern
-    piiranha_dir = r"C:\Users\Leander\Videos\Final Project File Data Analytics in Applications\TestingData\PIIRANHA_BaseModel_Anonymized_EMails"
-    groundtruth_dir = r"C:\Users\Leander\Videos\Final Project File Data Analytics in Applications\TestingData\GroundTruthDataset"
+    piiranha_dir = os.path.join(project_root, "TestingData", "PIIRANHA_BaseModel_Anonymized_EMails")
+    groundtruth_dir = os.path.join(project_root, "TestingData", "GroundTruthDataset")
 
     # Erstelle Evaluator und führe Evaluierung durch
     evaluator = PIIranhaEvaluator(piiranha_dir, groundtruth_dir)
