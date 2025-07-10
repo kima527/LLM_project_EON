@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+Zählerwechsel am [DATE] Zähler [METER_NUMBER], Stand [METER_AMOUNT] am [DATE], neuer Zähler [METER_NUMBER] Stand [METER_AMOUNT]
+Meine Daten:
+Vor-, Nachname: Herr [GIVENNAME] [SURNAME]
+Geburtsdatum: [DATEOFBIRTH]
+Lieferadresse: [STREET] [BUILDINGNUM], [ZIPCODE] [CITY]
+Zählernummer: [METER_NUMBER]
+Kundennummer: [CUSTOMER_NUMBER]
+Mit freundlichen Grüßen

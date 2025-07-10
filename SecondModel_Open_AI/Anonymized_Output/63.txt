@@ -1,0 +1,12 @@
+Sehr geehrte Damen und Herren,  
+ich würde gerne meine Verträge mit folgenden Vertragsnummern bündeln.  
+1. [CONTRACT_NUMBER]  
+2. [CONTRACT_NUMBER]  
+Mehrere Versuche auf der entsprechenden Internetseite sind leider schief  
+gelaufen.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+[EMAIL]  
+Tel. [TELEPHONENUM]

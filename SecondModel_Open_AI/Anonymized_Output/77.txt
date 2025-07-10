@@ -1,0 +1,6 @@
+Guten Tag,  
+Leider habe ich meinen Abschlag an die IBAN meines alten Vertragskontos überwiesen und bitte nun, dass der gezahlte Betrag auf mein neues Vertragskonto umgebucht wird.  
+Gezahlt wurde am [DATE] ein Betrag in Höhe von [AMOUNT] an die IBAN [IBAN].  
+Mein alte Vertragsnummer lautet [ACCOUNT_CONTRACT_NUMBER] und meine neue Vertragsnummer ist die [ACCOUNT_CONTRACT_NUMBER].  
+Ich bedanke mich recht herzlich.  
+Mit freundlichen Grüßen [GIVENNAME] [SURNAME].

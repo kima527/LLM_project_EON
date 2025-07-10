@@ -1,0 +1,4 @@
+bitte rufen Sie mich an wegen Vertragsbündelung.
+Vertrag [CONTRACT_NUMBER] mit Vertrag [CONTRACT_NUMBER]
+Vielen Dank im voraus.
+[GIVENNAME] und [GIVENNAME] [SURNAME]

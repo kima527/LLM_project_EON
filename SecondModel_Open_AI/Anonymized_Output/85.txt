@@ -1,0 +1,6 @@
+Sehr geehrte Damen und Herren,  
+im Anhang befinden sich 2 Bilder, die zeigen, dass die Ratenzahlung von August zweimal abgebucht wurde. Bitte überweisen Sie mir den Betrag von [AMOUNT] zurück auf mein Konto.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]  
+Diese Nachricht wurde von meinem Android Mobiltelefon mit [ORGANISATION] Mail gesendet.  
+[LINK]

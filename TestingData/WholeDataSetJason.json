@@ -1,0 +1,8 @@
+[
+
+  {
+    "filename": "beispiel3.txt",
+    "groundtruth": "Guten Tag,\nhiermit schicke ich Ihnen die noch fehlenden Angaben:\nÜbergabedatum: [DATE]\nMieter: [GIVENNAME] [SURNAME] ([TELEPHONENUM])\n [GIVENNAME] [SURNAME] ([TELEPHONENUM])\nVermieter: Dr. [GIVENNAME] [SURNAME]\nZählernummer: [METER_NUMBER]\nZählerstand: [METER_AMOUNT]\nVielen Dank\n[GIVENNAME] [SURNAME]",
+    "piiranha": "Guten Tag,\nhiermit schicke ich Ihnen die noch fehlenden Angaben:\nÜbergabedatum: 01.08.2023\nMieter: Isabelle Eckbauer [TELEPHONENUM])\n[GIVENNAME] [SURNAME] [TELEPHONENUM])\nVermieter: Dr. FranzXaver Huhn\nZählernummer: 1ISK0070547123\nZählerstand: 0022386623\nVielen Dank [GIVENNAME] Eckbauer"
+  }
+]

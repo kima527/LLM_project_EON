@@ -1,0 +1,7 @@
+Hallo [ORGANISATION],  
+Bitte erstatten Sie auf folgendes Konto zurück  
+[GIVENNAME] [SURNAME]  
+Iban: [IBAN]  
+bei der Kartoffelbank.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]

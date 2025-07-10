@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,  
+nach Tarifwechsel Strom sehe ich meinen neuen Vertrag nicht mehr im Online Portal. Ich bitte, den Vertrag hinzufügen:  
+Vertragskonto: [SURNAME] [SURNAME][ACCOUNT_CONTRACT_NUMBER]  
+Zählernummer: [METER_NUMBER]  
+Vielen Dank!

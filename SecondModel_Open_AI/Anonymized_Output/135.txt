@@ -1,0 +1,18 @@
+Sehr geehrte Damen und Herren,  
+anbei die angeforderten Daten zum Wechsel zu EON.  
+Vertragsnummer: [CONTRACT_NUMBER]  
+Übergabedatum: [DATE]  
+Verkäufer: [ORGANISATION]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+Käufer: [GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+Zählernummer [METER_NUMBER]  
+Zählerstand [METER_AMOUNT]  
+Ablesedatum: [DATE]  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]  
+------------------------------------------------------------------------  
+Gesendet mit der [ORGANISATION] Mail App  
+[LINK]

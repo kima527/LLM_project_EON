@@ -1,0 +1,5 @@
+Sehr geehrte Frau [SURNAME],
+Wie bereits Telefonisch besprochen sende ich ihnen das Schreiben von
+[ORGANISATION]. Vielen Dank für ihre Hilfe.
+Mit freundlichen Grüßen
+[GIVENNAME] [SURNAME]

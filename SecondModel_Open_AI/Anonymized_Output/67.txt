@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,  
+ich bitte Sie mein Kundenkonto samt aller zu meiner Person gespeicherten Daten zu löschen.  
+[GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+[EMAIL]  
+Vielen Dank und liebe Grüße  
+[GIVENNAME] [SURNAME]

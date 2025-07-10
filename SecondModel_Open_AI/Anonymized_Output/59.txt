@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,  
+um unsere Abrechnung erstellen zu können benötigen wir DRINGEND die Zischenabrechnung Gas zum [DATE] inkl. Gas Soforthilfe etc.  
+Der Zählerstand zum [DATE] war [METER_AMOUNT], Vertragsnummer [CONTRACT_NUMBER], [STREET] [BUILDINGNUM] in [ZIPCODE] [CITY]  
+Bitte senden Sie uns diese Zwischenabrechnung schnellstmöglich zu, gerne auch vorab über E-Mail.  
+Viele Grüße,  
+[GIVENNAME] [SURNAME]  
+Faust UG - [STREET] [BUILDINGNUM] - [ZIPCODE] [CITY]  
+Telefon [TELEPHONENUM] - Mobil [TELEPHONENUM]  
+[EMAIL]  
+Registergericht: [CITY] [COMPANY_REGISTER]  
+Geschäftsführer: [GIVENNAME] [SURNAME], [GIVENNAME] [SURNAME]

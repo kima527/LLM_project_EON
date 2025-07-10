@@ -1,0 +1,6 @@
+An das Serviceteam von [ORGANISATION],  
+im [MONTH] [YEAR] habe ich am [DAY].[MONTH] den Abschlag überwiesen und am [DAY].[MONTH] haben sie nochmal den Abschlag für [MONTH] eingezogen, so dass ich jetzt doppelt bezahlt habe für [MONTH].  
+Erstatten sie mir unverzüglich die [AMOUNT] Euro auf mein Konto bei der [ORGANISATION]: [IBAN]  
+[ORGANISATION] Kundennummer: [CUSTOMER_NUMBER]/[GENERIC_NUMBER]  
+Mit freundlichen Grüßen  
+Dr. [GIVENNAME] [SURNAME]

@@ -1,0 +1,16 @@
+Sehr geehrte Damen und Herren,  
+hiermit widerrufe ich den von mir abgeschlossenen Stromvertrag mit E.ON Energie.  
+1.) Angaben zum Vertragspartner  
+[GIVENNAME] [SURNAME]  
+Geb.-Datum: [DATEOFBIRTH]  
+[EMAIL]  
+2.) Angaben zur Verbrauchsstelle  
+Schacht Schottin GmbH & Co. KG Auftragsnummer: [GENERIC_NUMBER]  
+Tarifname: E.ON ÖkoStrom Extra  
+Datum der Auftragserstellung: [DATE]  
+Datum der Übermittlung an E.ON Energie: [DATE]  
+Zählernummer: [METER_NUMBER]  
+Adresse: [STREET] [BUILDINGNUM], [ZIPCODE] [CITY]  
+Bitte bestätigen Sie mir den Widerruf mit Antwort auf diese E-Mail.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]

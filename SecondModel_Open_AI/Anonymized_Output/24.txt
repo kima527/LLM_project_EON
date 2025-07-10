@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren,  
+bitte bereiten Sie mir ein Angebot für oben genannten Rahmenvertrag vor.  
+Meine Daten finden Sie entsprechend nachstehend.  
+[GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+Vertragsnummer: [CONTRACT_NUMBER]  
+WLV: [GENERIC_NUMBER]  
+Vielen Dank,  
+[GIVENNAME] [SURNAME]

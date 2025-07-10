@@ -1,0 +1,6 @@
+Vertragsnumer [CONTRACT_NUMBER]
+Hello
+Wir haben Stromzähler am [DATE] in Büro in [CITY] abgegeben. Bei Herr [SURNAME].
+Mit freundlichen Grüßen
+[GIVENNAME] [SURNAME]
+ส่งจาก Outlook สำหรับ Android<[LINK]>

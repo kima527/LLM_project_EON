@@ -1,0 +1,16 @@
+Vertragsnummer [CONTRACT_NUMBER]
+
+Fam. [SURNAME]/[SURNAME]
+[STREET] [BUILDINGNUM]
+[ZIPCODE] [CITY]
+
+Sehr geehrte Damen und Herren, wir haben am [DATE] ein email an euch 
+geschickt und leider nach fast 1,5 Monaten immer noch keine Antwort 
+bekommen. Schreiben heute noch ein Mal.
+
+in letzter Abrechnung vom [DATE] ist einen Fehler aufgetreten und zwar 
+Zählerstand passt nicht. Am [DATE] unsere tatsächliche Zählerstand war 
+[METER_NUMBER] m3. Laut Ihre Abrechnung [METER_NUMBER] m3. Das ist [METER_AMOUNT] Differenz (also [METER_AMOUNT] 
+zu viel). Wir bieten Sie alles umzurechnen. Vielen Dank.
+
+MfG Fam. [SURNAME]/[SURNAME]

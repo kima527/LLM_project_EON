@@ -1,0 +1,9 @@
+Sehr geehrter [ORGANISATION],  
+Hiermit teile ich euch noch mal eine Kopie des Übergabeprotokolls mit zum  
+Abschließen des o.g. Stromvertrags.  
+*Vertragskonto: [ACCOUNT_CONTRACT_NUMBER]*  
+*Zählernummer: [METER_NUMBER]*  
+Ich bitte euch gerne um eine schnelle Bearbeitung der Unterlagen und  
+möglichst eine Rückmeldung.  
+mit den besten Grüßen  
+[GIVENNAME] [SURNAME]

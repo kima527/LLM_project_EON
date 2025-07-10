@@ -1,0 +1,6 @@
+Sehr geehrte Damen und Herren,  
+im Anhang finden Sie einen Screenshot mit den Umsatzdetails zu meiner getätigten Zahlung am [DATE]. Meine fällige Abschlagszahlung vom [DATE] wird immernoch als offen dargestellt und wurde inzwischen von Ihnen gemahnt.  
+Meine Vertragsnummer lautet [CONTRACT_NUMBER]  
+Die Zählernummer lautet [METER_NUMBER]  
+Mit freundlichen Grüßen,  
+[GIVENNAME] [SURNAME]

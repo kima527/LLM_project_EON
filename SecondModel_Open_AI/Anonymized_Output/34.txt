@@ -1,0 +1,20 @@
+#### Order 
+ 
+Anliegen*: Erdgas 
+ 
+Jahresverbrauch (kWh/Jahr)*: ohne Relevanz 
+ 
+Nachricht: Vertragsnummer [CONTRACT_NUMBER] + [CONTRACT_NUMBER] Ihr Schreiben aus August. Ich möchte vom Bündelbonus partizipieren. Mein Bündel-Code ist [BUNDLE_CODE] Ich erbitte Informationen und einen Vorschlag 
+ 
+Ihr Name*: [GIVENNAME] [SURNAME] 
+ 
+Firmenname*: [GIVENNAME] [SURNAME] 
+ 
+PLZ und Ort*: [ZIPCODE] [CITY] 
+ 
+E-Mail*: [EMAIL] 
+ 
+ 
+Ich akzeptiere die unten genannte Einwilligungserklärung.* 
+ 
+: on

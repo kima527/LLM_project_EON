@@ -1,0 +1,24 @@
+Sehr geehrte(-r) Sachbearbeiter(-in) 
+ 
+ 
+zum folgenden Vertragskonto wurde über Mein E.ON - Kontakt am [DATE] folgende Kundenanfrage zum Thema ""Sonstiges"" abgesendet. Bitte um Bearbeitung! 
+ 
+ALLE DATEN AUF EINEN BLICK: 
+ 
+ 
+Geschäftspartner: [CUSTOMER_NUMBER] 
+Vertragskonto: [ACCOUNT_CONTRACT_NUMBER] 
+Telefonnummer für Rückfragen: 
+Nachricht/Anfrage:  
+„VERTRAGS NR.: [CONTRACT_NUMBER] "Ihr Schreiben vom [DAY] August [YEAR] wg. E-Mail-Adresse" “ 
+ 
+ 
+ 
+Freundliche Grüße 
+Ihr E.ON Kundenservice 
+ 
+[LINK] 
+ 
+E.ON Deutschland GmbH 
+Vorsitzender des Aufsichtsrats/Chairman of the Supervisory Board: Dr. Ingo Luge Geschäftsführung/Executive Board: Dr. Victoria Ossadnik (Vorsitzende der Geschäftsführung/CEO) Dr. Philip Beckmann Torsten Flosbach Dr. Uwe Kolks Dr. Wolfgang Noetel Otmar Zisler 
+Sitz: Arnulfstraße [BUILDINGNUM], [ZIPCODE] München Amtsgericht München [COMPANY_REGISTER] Ust-IdNr.: [TAXNUM] Gläubiger-ID: [GENERIC_NUMBER]

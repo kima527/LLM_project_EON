@@ -1,0 +1,9 @@
+Sehr geehrtes [ORGANISATION] Team,  
+ich habe heute ein Schreiben aus Ihrem Hause erhalten, in dem Sie auf Rabattmöglichkeiten hinweisen, wenn man sowohl Gas- als auch Stromliefervertrag bei [ORGANISATION] hat.  
+Das würde mich interessieren.  
+Allerdings habe ich eine Photovoltaikanlage auf dem Dach und speise Strom ins öffentliche Netz.  
+Wäre [ORGANISATION] dann auch mein Ansprechpartner für die Strom-Vergütung?  
+Freundliche Grüße,  
+[GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]

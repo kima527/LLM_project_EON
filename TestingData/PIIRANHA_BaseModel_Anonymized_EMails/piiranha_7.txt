@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,
+wann bekomme ich meine Abrechnung? Der Vertrag ist seit Januar 23 beendet
+Meine Daten:
+Vor, Nachname: FriedrichKarl Krause
+Geburtsdatum:[DATEOFBIRTH]
+Lieferadresse:[STREET] [BUILDINGNUM]
+Zählernummer:[ZIPCODE]
+Kundennummer:[ACCOUNTNUM]
+Mit freundlichen Grüßen

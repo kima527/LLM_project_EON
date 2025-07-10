@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren,  
+hiermit lege Ich, [GIVENNAME] [SURNAME], Vertragsnummer [CONTRACT_NUMBER], bei der Schlussrechnung [YEAR]/[YEAR] Widerspruch ein.  
+Die Wohnungsabnahme war am [DATE], anbei das Übergabeprotokoll der Hausverwaltung. Der Abrechnungszeitraum vom [DATE]-[DATE] fällt somit nicht mehr in meinen Bemessungszeitraum. Anbei auch die neue Meldebescheinigung. Ich bitte hiermit um Klärung der Abrechnung.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]

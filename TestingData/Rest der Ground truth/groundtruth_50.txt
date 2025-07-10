@@ -1,0 +1,7 @@
+Guten Tag,
+Vertragskonto : [ACCOUNT_CONTRACT_NUMBER]
+Zählernummer : [METER_NUMBER]
+Anbei Kontoauszug
+Mit freundlichen Grüßen
+[GIVENNAME] [SURNAME]
+Diese Nachricht wurde von meinem Android Mobiltelefon mit GMX Mail gesendet.

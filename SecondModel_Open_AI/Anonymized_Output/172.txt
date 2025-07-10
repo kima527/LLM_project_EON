@@ -1,0 +1,11 @@
+Sehr geehrte Damen und Herren,  
+Auf Grund eines Umzuges, und eines Strom Wechsels in den Öko Strom bei [ORGANISATION].  
+Möchte ich rückwirkend zum [DATE] meinen Vertrag bei [ORGANISATION] Kündigen. Wie  
+telefonisch vereinbart, schicke ich Ihnen eine Email mit einem  
+Sonderkündigungsrecht.  
+Meine Vertragsnummer wie folgt: das ist die alte Vertragsnummer [CONTRACT_NUMBER]  
+Meine neue Adresse: [GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY].  
+Bei Rückfragen [TELEPHONENUM]  
+MfG [GIVENNAME] [SURNAME]

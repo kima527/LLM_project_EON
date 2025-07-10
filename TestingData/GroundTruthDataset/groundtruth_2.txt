@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,
+leider wurde mein Abschlag den ich für [MONTH] überwiesen habe für den Abschlag für [MONTH] verrechnet.
+Wie schon mindesten 10 mal von mir berichtet, habe ich den Abschlag von[Amount] für [MONTH] auf das Konto das in mein e-on angegeben ist überwiesen [IBAN].
+Sie müssten nur den Betrag umbuchen auf [IBAN].
+Ich bitte Sie dies zu machen, weil ich sonst wieder eine Zahlungserinnerung für [MONTH] bekomme.
+Mit freundichen Grüssen
+Dipl.-Ing. [GIVENNAME] [SURNAME]
+l

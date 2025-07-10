@@ -1,0 +1,1 @@
+Guten Tag, bei dem begleichen der offenen Rechnung vom [DAY].[MONTH]-[DAY].[MONTH] ist mir ein Fehler in der Rechnungsnummer unterlaufen. Meine Vertragsnummer lautet: [CONTRACT_NUMBER] Im Anhang liegt ein Kontoauszug vor, dass ich den Betrag von [AMOUNT] beglichen habe. Mit freundlichen Grüßen [GIVENNAME] [SURNAME]

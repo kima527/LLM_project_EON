@@ -1,0 +1,11 @@
+Kunde: 			[ORGANISATION] & [ORGANISATION]
+Verbrauchsstelle:	[STREET] [BUILDINGNUM]
+Zähler:			[IBAN]
+Vertragsnummer: [CONTRACT_NUMBER]
+Sehr geehrte Damen und Herren,
+wir bedanken uns für Ihre Abschlagsanpassung gemäß Ihres Schreibens vom [DATE], 
+auch wenn Ihr Schreiben auf unsere eingelegten Widersprüche nicht eingegangen ist.
+Der guten Ordnung halber verweisen wir erneut zu Ihrer im [MONTH] [YEAR] angekündigten Preiserhöhung auf unseren Widerspruch vom [DATE], den wir nach wie vor aus dargelegtem Grund aufrecht erhalten. 
+Mit freundlichen Grüßen
+Dr. [GIVENNAME] [SURNAME]
+- Hausverwaltung -

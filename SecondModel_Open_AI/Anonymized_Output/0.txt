@@ -1,0 +1,3 @@
+Wie angefordert der Kontoauszug. Abbuchung Euro [AMOUNT].  
+Gesendet mit der [ORGANISATION] Mail App  
+[LINK]

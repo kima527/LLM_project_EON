@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,  
+bitte den Termin für den Abschlag ändern; von Mitte des Monats zu Anfang des Monats.  
+Meine Daten:  
+Vor-, Nachname: [GIVENNAME] [SURNAME]  
+Geburtsdatum: [DATEOFBIRTH]  
+Lieferadresse: [STREET] [BUILDINGNUM], [ZIPCODE] [CITY]  
+Zählernummer: [METER_NUMBER]  
+Kundennummer: [CUSTOMER_NUMBER]  
+Mit freundlichen Grüßen

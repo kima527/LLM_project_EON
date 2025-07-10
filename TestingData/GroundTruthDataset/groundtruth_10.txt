@@ -1,0 +1,15 @@
+>
+> Sehr geehrter Damen und Herren,
+>
+> Würde gerne Einer [AMOUNT] monatlich Ratenzahlung für meiner letzte Strom
+> Rechnung vereinbaren.
+>
+> Vertragsnummer: [CONTRACT_NUMBER]
+>
+> Rechnungsnummer: [INVOICE_NUMBER]
+>
+>
+> Mit freundlichem grüßen
+>
+> Herr [GIVENNAME] [SURNAME]
+>

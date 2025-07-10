@@ -1,0 +1,14 @@
+Sehr geehrte Damen und Herren,
+
+ich habe meinen Stromvertrag (Vertragsnummer: [CONTRACT_NUMBER]) mit meinem Gasvertrag (Vertragsnummer: [CONTRACT_NUMBER]) gebündelt. In den Rechnungen für 2023 erscheint dieser Vorteil „Bündelbonus“ nicht. Ich bitte Sie diesen zu berücksichtigen und die Rechnungen entsprechend anzupassen.
+
+Bei Fragen stehe ich Ihnen sehr gerne zur Verfügung.
+
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]
+
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]
+
+Tel.: [TELEPHONENUM]  
+[EMAIL]

@@ -1,0 +1,18 @@
+Sehr geehrte Damen und Herren,
+
+wir sind umgezogen:
+
+Grundstücksges. Mudering 49  
+Neue Adresse:  
+[STREET] [BUILDINGNUM], [ZIPCODE] [CITY]
+
+(vorher [STREET] [BUILDINGNUM], [ZIPCODE] [CITY])
+
+Alle anderen Daten bleiben bestehen (Bankverbindung zB)
+
+Mit freundlichen Grüßen
+
+[GIVENNAME] [SURNAME]  
+Buchhaltung
+
+Grundstücksges. Mudering 49

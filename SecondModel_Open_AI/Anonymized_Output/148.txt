@@ -1,0 +1,10 @@
+Sehr geehrte Damen und Herren  
+leider wurde meine Zählernummer immer noch nicht in Ihren Unterlagen geändert. Die Zählernummer lautet bereits seit Vertragsbeginn [METER_NUMBER].  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]  
+D-[ZIPCODE] [CITY]  
+[STREET] [BUILDINGNUM]  
+Tel.: [TELEPHONENUM]  
+Fax: [TELEPHONENUM]  
+Handy [TELEPHONENUM]  
+E-Mail: [EMAIL]

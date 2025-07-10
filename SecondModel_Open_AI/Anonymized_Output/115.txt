@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,  
+ich hatte am [DATE] mit dem Kundensupport telefoniert und um eine Korrektur der Konto-Zuordnung zu meiner E-Mail-Adresse gebeten:  
+- [ACCOUNT_CONTRACT_NUMBER], [GIVENNAME] [SURNAME]: alter, beendeter Vertrag  
+- [ACCOUNT_CONTRACT_NUMBER] und [ACCOUNT_CONTRACT_NUMBER], [GIVENNAME] [SURNAME]: aktueller Vertrag  
+Meine E-Mail-Adresse ist mit dem beendeten Konto [ACCOUNT_CONTRACT_NUMBER] verbunden.  
+Telefonisch wurde mir mitgeteilt, dass dies auf meinen aktuellen Vertrag ([ACCOUNT_CONTRACT_NUMBER] und [ACCOUNT_CONTRACT_NUMBER]) geändert wird. Dies ist bisher nicht geschehen.  
+Bitte teilen Sie mir mit, wenn die Bearbeitung erfolgt ist.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]

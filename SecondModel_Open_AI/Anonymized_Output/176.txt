@@ -1,0 +1,7 @@
+Sehr geehrte Damen und Herren,  
+Sie haben bis heute nicht auf meine E-Mail vom [DATE], [TIME], geantwortet. Nach wie vor befinde ich mich nicht in der Belieferung. Ich finde die Situation unsäglich und fordere Sie auf, mich unverzüglich zu kontaktieren.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+Tel.: [TELEPHONENUM]

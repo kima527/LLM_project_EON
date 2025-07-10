@@ -1,0 +1,8 @@
+Guten Tag
+Es wurde noch ein Zhlerfoto vom Zähler mit der Nummer [METER_NUMBER] benötigt.
+Kunde: [GIVENNAME] [SURNAME]
+Verbrauchstelle: [STREET] [BUILDINGNUM], [ZIPCODE] [CITY]
+Zähler: [METER_NUMBER]
+Vertragsnummer: [CONTRACT_NUMBER]
+Foto ist im Anhang
+Mfg

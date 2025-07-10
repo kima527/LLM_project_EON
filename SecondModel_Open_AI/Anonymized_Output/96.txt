@@ -1,0 +1,8 @@
+Sehr geehrte Damen und Herren,  
+wir sind bereits online registriert und möchten zu bestehenden Verträgen  
+([CONTRACT_NUMBER], [CONTRACT_NUMBER], [CONTRACT_NUMBER]) folgende Verträge hinzufügen um online  
+Zugriff darauf zu haben:  
+[CONTRACT_NUMBER]  
+[CONTRACT_NUMBER]  
+Herzliche Grüße  
+[GIVENNAME] [SURNAME]

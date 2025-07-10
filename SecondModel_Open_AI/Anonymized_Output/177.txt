@@ -1,0 +1,6 @@
+Zähler Wechselprotokoll.  
+Vertragsnummer: [CONTRACT_NUMBER]  
+[GIVENNAME] [SURNAME]  
+[DATE]  
+[STREET]  
+[ZIPCODE] [CITY]

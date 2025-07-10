@@ -1,0 +1,10 @@
+Guten Tag. 
+Der nächste Abschlag ist am [DAY].[MONTH] fällig. 
+Habe das Ende Juli mit einem Kollegen am Call Center ausgemacht. 
+Bitte um Bearbeitung das der Betrag Ende August überwiesen wird. 
+Das Konto ist ausgeglichen. 
+Vielen Dank. 
+Mit freundlichen Grüßen 
+Herr [GIVENNAME] [SURNAME] 
+[STREET] [BUILDINGNUM]
+[ZIPCODE] [CITY]

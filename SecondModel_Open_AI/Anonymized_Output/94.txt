@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,  
+ich bitte Sie für obiges Vertragskonto den monatlichen Abschlag auf [AMOUNT] zu reduzieren.  
+Meine Eltern sind ausgezogen. Das Haus steht leer.  
+Freundliche Grüße  
+[GIVENNAME] [SURNAME]  
+[GIVENNAME] [SURNAME]  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+[TELEPHONENUM]

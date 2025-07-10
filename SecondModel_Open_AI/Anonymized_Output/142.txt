@@ -1,0 +1,7 @@
+Sehr geehrte Damen und Herren,  
+in der Anlage befindet sich die Vollmacht meiner Mutter.  
+Bitte fügen Sie den Vertrag [CONTRACT_NUMBER] in Mein E.ON von [GIVENNAME] [SURNAME]  
+mit dem Vertrag [CONTRACT_NUMBER] hinzu.  
+--  
+Mit freundlichen Grüssen  
+[GIVENNAME] [SURNAME]

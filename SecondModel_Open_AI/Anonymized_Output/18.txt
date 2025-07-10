@@ -1,0 +1,9 @@
+Schönen guten Tag,  
+[GIVENNAME] [SURNAME], [DATEOFBIRTH]  
+Ich habe gestern aus Versehen die Stromrechnung überwiesen, die eigentlich per Lastschrift eingezogen wird.  
+Gestern habe ich mit einem aus ihrem Kundenservice telefoniert, der mir gesagt hat, ich solle mich nochmal melden, falls ich das Geld zurück überwiesen haben möchte, statt als Gutschrift.  
+Hiermit möchte ich Ihnen mitteilen, dass ich die [AMOUNT] Euro zurück überwiesen haben möchte.  
+Bitte veranlassen Sie dies so schnell wie möglich.  
+Mit freundlichen Grüßen  
+[GIVENNAME] [SURNAME]  
+Gesendet mit der mobilen Mail App

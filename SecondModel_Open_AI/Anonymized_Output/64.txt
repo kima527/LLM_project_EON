@@ -1,0 +1,14 @@
+[GIVENNAME] [SURNAME] [CITY], den [DATE]  
+[STREET] [BUILDINGNUM]  
+An die  
+Köhler  
+[STREET] [BUILDINGNUM]  
+[ZIPCODE] [CITY]  
+*Kunden-Nr.: [CUSTOMER_NUMBER]*  
+*Verbrauchsstelle: [STREET] [BUILDINGNUM], [ZIPCODE] [CITY]*  
+*Zähler: [METER_NUMBER]*  
+Sehr geehrte Damen und Herren,  
+hiermit *widerrufe* ich den von mir geschlossenen Vertrag über die  
+Stromlieferung von Matthäi Komfort Extra Öko.  
+Widerruf gemäß Formular anbei.  
+[GIVENNAME] [SURNAME]

@@ -1,0 +1,9 @@
+Sehr geehrte Damen und Herren,  
+wann bekomme ich meine Abrechnung? Der Vertrag ist seit Januar 23 beendet  
+Meine Daten:  
+Vor-, Nachname: [GIVENNAME] [SURNAME]  
+Geburtsdatum: [DATEOFBIRTH]  
+Lieferadresse: [STREET] [BUILDINGNUM]  
+Zählernummer: [METER_NUMBER]  
+Kundennummer: [CUSTOMER_NUMBER]  
+Mit freundlichen Grüßen

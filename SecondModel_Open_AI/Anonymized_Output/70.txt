@@ -1,0 +1,14 @@
+Sehr geehrte Damen und Herren,
+
+ich verstehe Ihr Schreiben leider nicht.
+
+Der genannte Vertrag ist seit [MONTH]/[YEAR] beendet. In diesem Vertrag handelte es sich um den Allgemeinstromzähler vom [STREET] [BUILDINGNUM], [CITY]. Dieser Zähler hat nun die Vertragsnummer [CONTRACT_NUMBER].
+
+Mit freundlichen Grüßen
+
+[GIVENNAME] [SURNAME]
+
+[STREET] [BUILDINGNUM]
+[ZIPCODE] [CITY]
+[TELEPHONENUM]
+[TELEPHONENUM]

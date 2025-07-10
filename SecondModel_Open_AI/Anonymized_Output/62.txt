@@ -1,0 +1,12 @@
+Vertragsnummer: [CONTRACT_NUMBER]
+[GIVENNAME] [SURNAME]
+Verbraucherstelle: [STREET] [BUILDINGNUM], [ZIPCODE] [CITY]
+Zähler: [METER_NUMBER]
+Sehr geehrte Damen und Herren,
+Ich kündige den Vertrag wegen dem Umzug zum [DATE]
+Um eine schriftliche Bestätigung wird gebeten.
+Neue Adresse:
+[STREET] [BUILDINGNUM]
+[ZIPCODE] [CITY]
+Viele Grüße
+[GIVENNAME] [SURNAME]

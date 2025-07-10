@@ -1,0 +1,17 @@
+Vertragspartner:[GIVENNAME] [SURNAME]
+Vertragskonto: [ACCOUNTNUM]
+Kundennummer:[ACCOUNTNUM]
+Zählernummer: 	7 GMT00984726553
+Gewählter Tarif: 	E.ON Erdgas Öko
+Sehr geehrte Damen und Herren,
+unser Gaszähler wurde abgebaut, da wir eine Wärmepumpe installiert haben
+und kein Gasbezug mehr benötigen.
+Das Ausbauprotokoll des Netzbetreibers füge ich der Anlage bei.
+Der Schlußstand unserer Belieferung ist bereits im Portal eingetragen.
+Ich bedanke mich für die Dato unproblematische Vertragsabwicklung.
+*Mit freundlichen Grüßen [GIVENNAME] [SURNAME]
+/
+Meins Drubin Mentzel GmbH [STREET] 435 [ZIPCODE] [CITY]
+/*/
+/*/Fon:[TELEPHONENUM]
+Fax:[TELEPHONENUM]/*

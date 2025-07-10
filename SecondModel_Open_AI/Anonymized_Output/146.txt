@@ -1,0 +1,5 @@
+Sehr geehrte Damen und Herren, 
+wie besprochen sende ich Ihnen die Unterlagen zur Vertragsnummer [CONTRACT_NUMBER] sowie die Angebotsnummer [BUNDLE_CODE] zu. 
+Für weitere Rückfragen können Sie mich gerne per Mail erreichen.
+Mit freundlichen Grüßen 
+Dipl.-Ing. [GIVENNAME] [SURNAME]

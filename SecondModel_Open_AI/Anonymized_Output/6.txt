@@ -1,0 +1,6 @@
+[GIVENNAME] [SURNAME] [STREET] [ZIPCODE] [CITY] Geb.[DATEOFBIRTH]  
+Kundennr.[CUSTOMER_NUMBER]  
+Sehr geehrtes [ORGANISATION] Team, laut eines [ORGANISATION] Mitarbeiters bei dem Telefongespräch gestern hätte ich für diesen August [YEAR] nur [AMOUNT] an Abschlagszahlung für Gas bezahlt, was aber nicht stimmen kann.  
+Im Anhang befindet sich der Nachweis, dass meine Abschlagszahlung für Gas im August [YEAR] ganze [AMOUNT] betragen haben.  
+Bitte um volle Berechnung meiner Zahlung.  
+Mit freundlichen Grüßen [GIVENNAME] [SURNAME]

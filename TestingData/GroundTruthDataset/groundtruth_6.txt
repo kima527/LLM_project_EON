@@ -1,0 +1,6 @@
+[GIVENNAME] [SURNAME] [STREET]. [ZIPCODE] [CITY] Geb.[DATEOFBIRTH]
+Kundennr.[CUSTOMER_NUMBER]
+Sehr geehrtes EON Team,laut eines EON Mitarbeiters bei dem Telefongespräch gestern hätte ich für diesen [MONTH] [YEAR] nur [AMOUNT] an Abschlagszahlung für Gas bezahlt was aber nicht stimmen kann.
+Im Anhang befindet sich der Nachweis das meine Abschlagszahlung für Gas im [MONTH] [YEAR] ganze [AMOUNT] betragen haben.
+Bitte um volle Berechnung meiner Zahlung.
+Mit freundlichen Grüßen [GIVENNAME] [SURNAME]
